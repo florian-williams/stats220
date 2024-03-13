@@ -2,7 +2,7 @@
 ## Introduction
 Hello, my name is Florian Williams, and this is (almost) **my very first time** using GitHub!
 
-I will be using this repo for my *Stats 220* coursework.
+I will be using this repo for my Stats 220 coursework.
 
 I am:
 1. a statistics major
@@ -11,7 +11,7 @@ I am:
 
 That is to say, I am excited about this course, and looking forward to getting into it!
 
-## Off-topic Silliness to Fulfill Formatting
+## Off-topic Silliness
 Go to the [Comedy Fest](https://www.comedyfestival.co.nz/)!
 
 Also, the *Auckland Arts Festival* has kicked off! You'll find me attending:
@@ -21,3 +21,7 @@ Also, the *Auckland Arts Festival* has kicked off! You'll find me attending:
 * *[The Sun and the Wind](https://www.aaf.co.nz/event/sun-and-the-wind)*
 
 and hopefully many more events throughout the month!
+
+### Baking!
+I love baking, so I've put a photo of one of my favourite things to bake below (cinnamon buns!). I made *a lot* of cinnamon buns during lockdown, and though these ones look pretty messy, they were some of the most delicious.
+![Cinnamon buns](https://github.com/florian-williams/stats220/assets/163084750/975ac777-9102-4b06-ac38-ff6aa50cdda6)
